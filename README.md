@@ -3,7 +3,7 @@
 _A simple web app for our customers that displays a list of orders (or parcels)
 with some details they need to know like order status, ETAs, pickup locations etc.._
 
-_This project is built with [Create React App](https://github.com/facebook/create-react-app). _
+_This project is built with [Create React App](https://github.com/facebook/create-react-app)._
 
 ```sh
 npx create-react-app my-app
@@ -102,6 +102,6 @@ _The user can learn more in the [Create React App documentation](https://create-
 
 _To learn React, check out the [React introduction](https://dev.to/eduardo_alvarez_946ae8b20/react-introduction-58ln)._
 
-\_To Know more about routers and route Matchers [React Router](https://reactrouter.com/web/guides/primary-components.)
+_To Know more about routers and route Matchers [React Router](https://reactrouter.com/web/guides/primary-components.)_
 
 To learn React, check out the [React documentation](https://reactjs.org/).
