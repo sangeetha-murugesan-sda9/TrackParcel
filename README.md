@@ -35,6 +35,8 @@ BrowserRouter,Switch and Route.When a Switch is rendered, it searches through it
 _This Package Tracking Viewer web app is for our customers that displays a list of orders (or parcels)
 with some details they need to know like order status, ETAs, pickup locations etc.._
 
+_FireBase url:_ https://sangeethareact.web.app
+
 ## _Available Scripts_
 
 _In the project directory, you can run:_
