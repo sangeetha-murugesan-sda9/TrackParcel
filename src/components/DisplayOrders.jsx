@@ -30,7 +30,14 @@ export default function DisplayOrders(props) {
     <div>
       <div class="data">
         <h4> 📦 Parcel Express</h4>
-        <label> 📦 Package Details</label>
+        <hr />
+        <label>Track all your Parcel Express shipments. Simple and Easy!</label>
+        <p>
+          ParcelMonitor allows a one-stop real time tracking service. Simply
+          trace all your Parcel Express packages! Parcel Express claims to be
+          the cheapest package delivery company.
+        </p>
+        <label> Below are the 📦 Package Details</label>
       </div>
       <table id="customers">
         <tr>

@@ -18,6 +18,7 @@ export default function DisplayOrders(props) {
           Back to home
         </Link>
         <h4>📦 Parcel Express </h4>
+        <hr />
         <label>📦 Order Details</label>
       </div>
       {listData !== undefined ? (
